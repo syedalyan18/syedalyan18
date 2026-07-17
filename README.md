@@ -2,7 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Syed%20Alyan%20Hussain&textBg=false&animation=scaleIn&fontSize=44&section=header&fontAlignY=40)
 
-<p><strong>Software Engineer (In Progress)</strong> | <strong>Data Structures & Algorithms</strong> | <strong>Web Development</strong></p>
+<p><strong>Software Engineer (In Progress)</strong> | <strong>DSA</strong> | <strong>Ai and ML Enthusiast</strong> | <strong>Web Development</strong></p>
 
 </div>
 
