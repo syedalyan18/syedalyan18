@@ -38,7 +38,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 <div align="center">
   <a href="https://github.com/syedalyan18">
       <img height="180em" src="https://github-readme-stats-bay-xi-14.vercel.app/api/top-langs?username=syedalyan18&theme=tokyonight&layout=compact&show_icons=true&locale=en" />
-      <img height="180em" src="https://github-readme-stats-bay-xi-14.vercel.app/api?username=syedalyan18&theme=tokyonight&count_private=true&show_icons=true&locale=en" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&cache_seconds=1800&theme=tokyonight&count_private=true&show_icons=true&locale=en" />
   </a>
   <br />
   <a href="https://github.com/syedalyan18">
