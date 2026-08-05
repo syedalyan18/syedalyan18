@@ -38,11 +38,11 @@ Currently focused on strengthening my DSA foundations while building practical w
 <div align="center">
   <a href="https://github.com/syedalyan18">
       <img height="180em" src="https://github-readme-stats-bay-xi-14.vercel.app/api/top-langs?username=syedalyan18&theme=tokyonight&layout=compact&show_icons=true&locale=en" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&cache_seconds=1800&theme=tokyonight&count_private=true&show_icons=true&locale=en" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&count_private=true" />
   </a>
   <br />
   <a href="https://github.com/syedalyan18">
-    <img alt="Streak" src="https://streak-stats.demolab.com/?user=syedalyan18&theme=tokyonight" />
+    <img alt="Streak" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&cache_seconds=1800" />
   </a>
 </div>
 
