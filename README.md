@@ -35,20 +35,19 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ### GitHub Analytics
 
+<br/>
+
 <div align="center">
-
-<a href="https://github.com/syedalyan18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&cache_seconds=1800"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/syedalyan18">
-  <img height="180em" src="https://streak-stats.demolab.com?user=syedalyan18&theme=tokyonight&cache_seconds=1800"/>
-</a>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+<br/>
 
 ---
 
