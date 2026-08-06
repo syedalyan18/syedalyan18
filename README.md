@@ -37,15 +37,17 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ## 📊 GitHub Analytics
 
+<br/>
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=syedalyan18&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadanas20&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadanas20&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadanas20&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<br/>
 
 <br><br>
 
