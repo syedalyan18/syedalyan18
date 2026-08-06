@@ -40,13 +40,13 @@ Currently focused on strengthening my DSA foundations while building practical w
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadanas20&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadanas20&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=radical&hide_border=true" height="150" alt="streak graph" />
   
   <br>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadanas20&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 <br/>
 
 <br><br>
