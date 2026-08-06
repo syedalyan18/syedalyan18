@@ -44,7 +44,7 @@ Currently focused on strengthening my DSA foundations while building practical w
   
   <br>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 <br/>
