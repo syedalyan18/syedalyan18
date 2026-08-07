@@ -33,8 +33,6 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ---
 
-### GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <br/>
