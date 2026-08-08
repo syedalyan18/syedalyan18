@@ -51,7 +51,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ## 📈 Contribution Graph
 
-[![Syed Alyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedalyan18&theme=react-dark&hide_border=true)](https://github.com/syedalyan18)
+[![Syed Alyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedalyan18&timezone=Asia/Karachi&theme=react-dark&hide_border=true)](https://github.com/syedalyan18)
 
 </div>
 
