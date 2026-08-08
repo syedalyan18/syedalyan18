@@ -40,7 +40,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&timezone=Asia/Karachi&theme=radical&hide_border=true" height="150" alt="streak graph" />
   
   <br>
   
