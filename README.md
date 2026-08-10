@@ -35,25 +35,34 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ## 📊 GitHub Analytics
 
-<br/>
+
+## <img src="https://api.iconify.design/lucide:trending-up.svg?color=%238B5CF6" width="24" height="24" valign="middle" /> GitHub Analytics
+
+<table align="center" width="100%">
+<tr>
+  <td width="50%" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/stats.svg?v=7" width="100%" alt="GitHub Stats" />
+  </td>
+  <td width="50%" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/top-langs.svg?v=7" width="100%" alt="Top Languages" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/streak.svg?v=7" width="100%" alt="Contribution Streak" />
+  </td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedalyan18&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&timezone=Asia/Karachi&theme=radical&hide_border=true" height="150" alt="streak graph" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-<br/>
-
-<br><br>
-
-## 📈 Contribution Graph
-
-[![Syed Alyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedalyan18&timezone=Asia/Karachi&theme=react-dark&hide_border=true)](https://github.com/syedalyan18)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedalyan18&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6" width="24" height="24" valign="middle" /> Contribution Activity
 
 ---
 
