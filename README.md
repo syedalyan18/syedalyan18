@@ -59,18 +59,6 @@ Currently focused on strengthening my DSA foundations while building practical w
 
 ---
 
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6" width="24" height="24" valign="middle" /> Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadanas20/muhammadanas20/main/profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadanas20/muhammadanas20/main/profile/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/muhammadanas20/muhammadanas20/main/profile/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-  </picture>
-</div>
-
----
-
 ### Tools & Technologies
 
 #### Programming & CS Fundamentals
