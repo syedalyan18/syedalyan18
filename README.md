@@ -46,7 +46,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 </tr>
 <tr>
   <td colspan="2" align="center" valign="top">
-    <img srs="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847"alt="Contrbutions"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E"/>
   </td>
 </tr>
 </table>
