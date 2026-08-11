@@ -38,7 +38,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 <table align="center" width="100%">
 <tr>
   <td width="50%" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/stats.svg?v=7" width="100%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=dark" width="100%" alt="GitHub Stats" />
   </td>
   <td width="50%" align="center" valign="top">
     <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/top-langs.svg?v=7" width="100%" alt="Top Languages" />
@@ -46,7 +46,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 </tr>
 <tr>
   <td colspan="2" align="center" valign="top">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E"width="100%"/>
   </td>
 </tr>
 </table>
