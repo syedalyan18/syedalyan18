@@ -41,7 +41,7 @@ Currently focused on strengthening my DSA foundations while building practical w
     <img src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=dark" width="100%" alt="GitHub Stats" />
   </td>
   <td width="50%" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/top-langs.svg?v=7" width="100%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=dark" width="100%" alt="Top Languages" />
   </td>
 </tr>
 <tr>
