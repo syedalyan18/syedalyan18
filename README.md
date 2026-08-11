@@ -34,19 +34,18 @@ Currently focused on strengthening my DSA foundations while building practical w
 ---
 
 ## 📊 GitHub Analytics
-
 <table align="center" width="100%">
 <tr>
   <td width="50%" align="center" valign="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=syedalyan18&show_icons=true&theme=dark" width="100%" alt="GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/stats.svg?v=7" width="100%" alt="GitHub Stats" />
   </td>
   <td width="50%" align="center" valign="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalyan18&layout=compact&theme=dark" width="100%" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/top-langs.svg?v=7" width="100%" alt="Top Languages" />
   </td>
 </tr>
 <tr>
   <td colspan="2" align="center" valign="top">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E"width="100%"/>
+    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/streak.svg?v=7" width="100%" alt="Contribution Streak" />
   </td>
 </tr>
 </table>
