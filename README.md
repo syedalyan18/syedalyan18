@@ -46,7 +46,7 @@ Currently focused on strengthening my DSA foundations while building practical w
 </tr>
 <tr>
   <td colspan="2" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/syedalyan18/syedalyan18/main/profile/streak.svg?v=7" width="100%" alt="Contribution Streak" />
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=syedalyan18&theme=dark&hide_border=true&background=141321&ring=FE428E&fire=F8D847&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847)
   </td>
 </tr>
 </table>
