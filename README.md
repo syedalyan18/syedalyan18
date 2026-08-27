@@ -2,9 +2,9 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Syed%20Alyan%20Hussain&textBg=false&animation=scaleIn&fontSize=44&section=header&fontAlignY=40)
 
-<p><strong>Software Engineer (In Progress)</strong> | <strong>DSA</strong> | <strong>AI and ML Enthusiast</strong> | <strong>Web Development</strong></p>
+<!-- <p><strong>Software Engineer (In Progress)</strong> | <strong>DSA</strong> | <strong>AI and ML Enthusiast</strong> | <strong>Web Development</strong></p>
 
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syedalyan/">
